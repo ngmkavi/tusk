@@ -15,3 +15,10 @@ crab
 rice
 fish fry
 mutton curry
+
+total recipes
+total sales
+balance
+
+
+

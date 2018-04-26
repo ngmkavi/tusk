@@ -12,3 +12,6 @@ mutton
 fish
 crab
 
+rice
+fish fry
+mutton curry

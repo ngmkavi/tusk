@@ -12,3 +12,8 @@ mutton
 fish
 crab
 
+total recipes
+total sales
+balance
+
+
